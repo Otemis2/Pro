@@ -1,0 +1,1 @@
+Une petite app qui permet de noter les heures du boulot et de les calculer le temps de travail en jours, semaine, année. 
